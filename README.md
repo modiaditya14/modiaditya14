@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @modiaditya14
-- 👀 I’m interested in python & JS
-- 🌱 I’m currently learning from [kyle at web dev simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+- 👀 I’m interested in JS
+- 🌱 I’m currently checking out HackClub
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--!>
